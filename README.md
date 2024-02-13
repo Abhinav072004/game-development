@@ -1,7 +1,6 @@
-
-# MY QUIZ APP
-Hi, this is my project in the field of frontend development .
-this is a basic app to check the basic GS knowledge.
+# MY GAME
+Hi, this is my project in the field of game development .
+this is a basic game including a ball ,platform, Respawn, and candy.
 
 
 
@@ -15,7 +14,7 @@ this is a basic app to check the basic GS knowledge.
 
 ## Description:
 
- The Quiz App is a simple and interactive application designed to allow users to participate in quizzes on gs topics. Whether you're a student looking to test your knowledge or just someone who enjoys trivia, this app provides an engaging and fun way to learn new things.
+ The basic ball game in which if u win a particular level then next level already start and if u loose in a particular level then level again started . This game provides an engaging and  a lot of fun. because this is demo project so i fix this only level 0-4.
 
 
 
@@ -25,29 +24,18 @@ this is a basic app to check the basic GS knowledge.
 
  
 ## Features:
-User Authentication: Users can create accounts, log in, and track their quiz progress.
+User Authentication: user may be enjoy , and this game feels u nostalgia.
 
-Quiz Categories: this quiz checks your GS knoweledge.
+Game  Categories: This game includes 5 levels and as u move to upper level it feels difficult to complete.
 
 
-Leaderboard: Compete with your stamina and focus to maximize your potential.
 
 
 
 ## 🚀 About Me
-I'm a  learner who is very enthusiastic to learn programming.
-
-
-
-## FAQ
-
-#### IS this question related to mathematics?
-
-No this web app is only related to GS question.
-
-#### Is this app contain too many question for practice ?
-
-No, it's contain only few question for the purpose of demo.
+I'm a  learner who is very enthusiastic to learn  new domain of programming.
+and i am also a gamer like CS2,Valorant,BGMI etc ;so i know important things about 
+game which is more prefarable for the smooth gaming.d
 
 
 # Hi,this side abhinav singh
@@ -62,7 +50,17 @@ Git hub profile name----Abhinav072004
 https://www.linkedin.com/in/abhinav-singh-345b21299?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMzlIebsQSIea72ZqpsKiiw%3D%3D
 
 [![Github ]
-] : https://github.com/Abhinav072004/ABHINAV-SINGH
+] : https://github.com/Abhinav072004
+
+
+
+
+
+
+
+ 
+
+
 
 
 
